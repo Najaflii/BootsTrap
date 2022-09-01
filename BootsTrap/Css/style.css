@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.work{
+  background-color: white;
+  padding: 6rem;
+}
+
+span{
+  color: blue;
+}
+
+#Feature{
+  padding: 5rem;
+}
+
+#text{
+  width: 33%;
+  margin: auto;
+}
+
+#boxes{
+  margin-left:220px ;
+  margin-top: 20px;
+}
